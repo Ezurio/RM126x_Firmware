@@ -5,7 +5,7 @@
 [![RM1261 & RM1262](/images/rm126x_render.jpg)](https://www.ezurio.com/wireless-modules/lorawan-modules-solutions/rm126x-ultra-low-power-lorawan-a-b-c-module)
 [![Silabs](/images/silabs_logo.jpg)](https://www.silabs.com)
 [![Semtech](/images/semtech_logo.jpg)](https://www.semtech.com)
-[![Gecko SDK](/images/gecko_sdk_logo.jpg)](https://www.silabs.com/developers/gecko-software-development-kit)
+[![Gecko SDK](/images/gecko_sdk_logo.jpg)](https://github.com/SiliconLabs/gecko_sdk)
 [![Simplicity Studio](/images/simplicity_studio_logo.jpg)](https://www.silabs.com/developers/simplicity-studio)
 
 This is the firmware release page for the Ezurio [RM126x][RM126x product brief] product family.
@@ -50,6 +50,6 @@ The Factory Image can be flashed to a module to restore it to the factory state.
 [RM126x DVK user guide]: <https://www.ezurio.com/documentation/user-guide-rm126x-development-kit>
 [Native C development guide]: <https://www.ezurio.com/documentation/user-guide-lyra-series-c-code-development>
 [Firmware options and upgrade guide]: <https://www.ezurio.com/documentation/user-guide-firmware-options-and-upgrading-rm126x-series>
-[RM126x Releases Page]: <https://github.com/LairdCP/RM126x_Firmware/releases/tag/GA1.4>
+[RM126x Releases Page]: <https://github.com/Ezurio/RM126x_Firmware/releases/tag/GA1.4>
 [Semtech SX1261 product page]: <https://www.semtech.com/products/wireless-rf/lora-connect/sx1261>
 [Semtech SX1262 product page]: <https://www.semtech.com/products/wireless-rf/lora-connect/sx1262>
